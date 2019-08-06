@@ -2,6 +2,8 @@
 Credit Card Fraud Detection
 Anonymized credit card transactions labeled as fraudulent or genuine
 
+Get the dataset - https://drive.google.com/drive/folders/1mzty7gkOwjXKQJnlYwrDf1FFSqLar1gt?usp=sharing
+
 Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
